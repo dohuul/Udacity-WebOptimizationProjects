@@ -1,4 +1,5 @@
 Optimization
+
 1. Open https://dohuul.github.io/WebOptimizationProjects/index.html
     + The following optimization was made to index.html to improve loading time
         - Minify all CSS and JavaScript files
@@ -17,4 +18,5 @@ Optimization
             Refactor resize function to remove Forced Synchronous layout
 
 GitHub source
+
 1. https://github.com/dohuul/WebOptimizationProjects/
